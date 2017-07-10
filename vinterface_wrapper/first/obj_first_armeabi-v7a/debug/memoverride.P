@@ -1,0 +1,2 @@
+obj_first_armeabi-v7a/debug/memoverride.o: \
+ /mnt/data2/src/vinterface_wrapper/first/../..//public/tier0/memoverride.cpp

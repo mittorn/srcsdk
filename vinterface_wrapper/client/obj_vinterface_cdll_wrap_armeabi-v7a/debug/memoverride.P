@@ -1,0 +1,2 @@
+obj_vinterface_cdll_wrap_armeabi-v7a/debug/memoverride.o: \
+ /mnt/data2/src/vinterface_wrapper/client/../..//public/tier0/memoverride.cpp

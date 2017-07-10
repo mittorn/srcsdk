@@ -1,0 +1,11 @@
+[vpc crc file version 2]
+0731181f /mnt/data2/src/devtools/bin/vpc_linux
+_Nc_/vpcgame:valve_
+a2bb69b4 vinterface_cdll_wrap.vpc
+45355788 ../..//vpc_scripts/source_dll_base.vpc
+d752cf80 ../..//vpc_scripts/platform_dirs.vpc
+6c4a5ff1 ../..//vpc_scripts/source_base.vpc
+addfdd1d ../..//vpc_scripts/source_dll_posix_base.vpc
+486b766d ../..//vpc_scripts/version.vpc
+4ef1d688 ../..//vpc_scripts/source_posix_base.vpc
+346bda4a ../..//vpc_scripts/source_video_base.vpc
